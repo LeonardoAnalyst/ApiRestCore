@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\source\\repos\\ApiRest\\ApiRest\\ApiRest.csproj": {}
+    "E:\\Projeto tornar um Desenvolvedor\\Repositório\\C#\\ApiRest\\ApiRest\\ApiRest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\source\\repos\\ApiRest\\ApiRest\\ApiRest.csproj": {
+    "E:\\Projeto tornar um Desenvolvedor\\Repositório\\C#\\ApiRest\\ApiRest\\ApiRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\source\\repos\\ApiRest\\ApiRest\\ApiRest.csproj",
+        "projectUniqueName": "E:\\Projeto tornar um Desenvolvedor\\Repositório\\C#\\ApiRest\\ApiRest\\ApiRest.csproj",
         "projectName": "ApiRest",
-        "projectPath": "C:\\Users\\leona\\source\\repos\\ApiRest\\ApiRest\\ApiRest.csproj",
+        "projectPath": "E:\\Projeto tornar um Desenvolvedor\\Repositório\\C#\\ApiRest\\ApiRest\\ApiRest.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\source\\repos\\ApiRest\\ApiRest\\obj\\",
+        "outputPath": "E:\\Projeto tornar um Desenvolvedor\\Repositório\\C#\\ApiRest\\ApiRest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12,3 +12,17 @@ C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.Razo
 C:\Users\leona\source\repos\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.pdb
 C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.dll
 C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.pdb
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.deps.json
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.runtimeconfig.json
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.runtimeconfig.dev.json
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.dll
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.pdb
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.csprojAssemblyReference.cache
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.csproj.CoreCompileInputs.cache
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.RazorAssemblyInfo.cache
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.RazorAssemblyInfo.cs
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.AssemblyInfoInputs.cache
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.AssemblyInfo.cs
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.RazorTargetAssemblyInfo.cache
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.dll
+E:\Projeto tornar um Desenvolvedor\Repositório\C#\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.pdb
