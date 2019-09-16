@@ -1,0 +1,14 @@
+C:\Users\leona\source\repos\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.deps.json
+C:\Users\leona\source\repos\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.runtimeconfig.json
+C:\Users\leona\source\repos\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.runtimeconfig.dev.json
+C:\Users\leona\source\repos\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.dll
+C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.RazorAssemblyInfo.cache
+C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.RazorAssemblyInfo.cs
+C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.AssemblyInfo.cs
+C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.RazorTargetAssemblyInfo.cache
+C:\Users\leona\source\repos\ApiRest\ApiRest\bin\Debug\netcoreapp2.1\ApiRest.pdb
+C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.dll
+C:\Users\leona\source\repos\ApiRest\ApiRest\obj\Debug\netcoreapp2.1\ApiRest.pdb
