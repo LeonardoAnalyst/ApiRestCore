@@ -13,6 +13,10 @@ namespace ApiRest.Controllers
 
         private readonly IFundocapitalRepository _repository;
 
+        public FundoCapitalController(IFundocapitalRepository repository)
+        {
+            _repository = repository;
+        }
 
         [HttpGet("v1/fundocapital")]
         public IActionResult ListarFundos()
